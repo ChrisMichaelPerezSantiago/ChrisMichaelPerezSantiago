@@ -99,6 +99,10 @@ This is an entry-level course designed for people who want to dive into Back-End
 
 <img align="left" alt="ChrisMichaelPerezSantiago's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChrisMichaelPerezSantiago&show_icons=true&hide_border=true" />
 
+<img align="left" alt="ChrisMichaelPerezSantiago's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMichaelPerezSantiago&layout=compact"/>
+
+
+
 
 [twitter]: https://twitter.com/Chris5855M
 [linkedin]: https://www.linkedin.com/in/chrisperezsantiago/
