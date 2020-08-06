@@ -1,8 +1,4 @@
- 
- 
- 
-# Hi. I'm Chris M., I work as a developer at [Puerto Rico Science, Technology & Research Trust](https://prsciencetrust.org/) 
-
+# Hi. I'm Chris M., I work as a developer at [Puerto Rico Science, Technology & Research Trust](https://prsciencetrust.org/)  🐦 [twitter][twitter] **|** 📦 [npm][npm]  **|** 👔 [linkedin][linkedin]
 
 
 - 🌱 I’m currently learning everything 🤣
@@ -102,3 +98,8 @@ This is an entry-level course designed for people who want to dive into Back-End
 ---
 
 <img align="left" alt="ChrisMichaelPerezSantiago's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ChrisMichaelPerezSantiago&show_icons=true&hide_border=true" />
+
+
+[twitter]: https://twitter.com/Chris5855M
+[linkedin]: https://www.linkedin.com/in/chrisperezsantiago/
+[npm]: https://www.npmjs.com/settings/chris5855/packages
