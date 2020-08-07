@@ -10,7 +10,7 @@
 ## University studies
 
 **Bachelor of Science in Computer Sciences - 2014-2019**
-Inter American University of Puerto Rico, Metropolitan Campus
+[Inter American University of Puerto Rico, Metropolitan Campus][university]
 
 ## 📝Work Experience
 
@@ -118,3 +118,4 @@ Keep in mind that vuex helps us maintain and test our application better, but we
 [twitter]: https://twitter.com/Chris5855M
 [linkedin]: https://www.linkedin.com/in/chrisperezsantiago/
 [npm]: https://www.npmjs.com/settings/chris5855/packages
+[university]: http://www.metro.inter.edu/
