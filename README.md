@@ -7,6 +7,10 @@
 - ⚡ Fun fact: I love to play video games and play drum
 
 
+## University studies
+
+**Bachelor of Science in Computer Sciences - 2014-2019**
+Inter American University of Puerto Rico, Metropolitan Campus
 
 ## 📝Work Experience
 
