@@ -11,37 +11,6 @@
 
 **Bachelor of Science in Computer Sciences - 2014-2019**
 [Inter American University of Puerto Rico, Metropolitan Campus][university]
-
-## 📝Work Experience
-
-- [x] **Jr Dev**
-**CINCO Engineering. | San Juan. Puerto Rico | 2018**
-<p>
-  Program Web proyects using CSS, HTML5 and JavaScript and other tools. Ensure the performance, quality, and durability of the developed solutions. Responsible for production releases, server updates and unit tests. Participate in the development of control, improvement and test procedures. Ensure the security o the programmed modules. Plan and manage platform tests. Evaluate and solve problems. Integrate and develop Web solution identified during discussion with desing team. Ensure the quality o his or her own code and documentation. Being involved and support team members in the developtment and evolution of our applications. Participate in technology watch and anticipate market trends.
-</p>
- <br>
-
-- [x] **Software Tester**
-**Mucaroo Inc. | San Juan. Puerto Rico | 2018**
-<p>
-
- Responsible for conducting prescribed tests on software programs and applications prior to their implementation to ensure quality, design integrity and proper functionality, meeting with system users to understand the scope of projects, documenting and replicating every glitch encountered, and communicating findings to technical and non-technical colleagues.
-</p>
- <br>
-
-- [x] **Jr Dev Research Work** 
-**Medical Science Campus, UPR | San Juan, Puerto Rico | 2017** 
-<p>
-  Bioinformatics and Health Informatics Portal for Medical Minority Institutions (NLM - FUNDED).
-  Install local bioinformatic tools. 
-</p>
-<br>
-
-- [x] **Jr Dev Research Work** 
-**Medical Science Campus, UPR | San Juan, Puerto Rico | 2016** 
-Research work in the area of bioinformatic constructing, combining, optimizing, and searching finite-state transducers weighted [(FST) in C++](http://www.openfst.org/twiki/bin/view/FST/FstQuickTour) and [Python](https://pypi.org/project/openfst-python/).
-
-
   
 
 ## 🎉Achievements
