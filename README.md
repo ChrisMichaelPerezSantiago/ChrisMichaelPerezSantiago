@@ -1,9 +1,9 @@
-# Hi. I'm Chris M., Full Stack Developer 🐦 [twitter][twitter] **|** 📦 [npm][npm]  **|** 👔 [linkedin][linkedin]
+# Hi. I'm Chris M., Junior Full Stack Developer 🐦 [twitter][twitter] **|** 📦 [npm][npm]  **|** 👔 [linkedin][linkedin]
 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 - ???? Goals: Contribute more to Open Source projects
+- 🥅 2021 - ???? Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games and play drum
 
 
