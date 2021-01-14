@@ -1,4 +1,4 @@
-# Hi. I'm Chris M., I work as a developer at [Puerto Rico Science, Technology & Research Trust](https://prsciencetrust.org/)  🐦 [twitter][twitter] **|** 📦 [npm][npm]  **|** 👔 [linkedin][linkedin]
+# Hi. I'm Chris M., Full Stack Developer 🐦 [twitter][twitter] **|** 📦 [npm][npm]  **|** 👔 [linkedin][linkedin]
 
 
 - 🌱 I’m currently learning everything 🤣
