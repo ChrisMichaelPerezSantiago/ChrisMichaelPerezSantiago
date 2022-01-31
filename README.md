@@ -1,10 +1,10 @@
-# Hi. I'm Chris M., Junior Full Stack Developer 🐦 [twitter][twitter] **|** 📦 [npm][npm]  **|** 👔 [linkedin][linkedin]
+# Hi. I'm Chris M., Full Stack Developer 🐦 [twitter][twitter] **|** 📦 [npm][npm]  **|** 👔 [linkedin][linkedin]
 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 - ???? Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play video games and play drum
+- 🥅 2022 - ???? Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: Rest 😴💤
 
 
 ## University studies
@@ -22,15 +22,6 @@ This is an entry-level course designed for people who want to dive into Back-End
     - Learn about NoSQL databases.
     - Learn about MongoDB as the primary database.
     - Serve html/css application with your server.
-
-
-## 💡Publications
- - [x] **Structuring store with the right feet using vue/vuex | [Medium](https://medium.com/@chrismichaelperez/structuring-store-with-the-right-feet-using-vue-vuex-4ab69070cac0)**
- 
- This publication will be focused on how to structure our store in a simple and effective way. I will be assuming that you have a fairly reasonable knowledge using the vue framework and the handling of Lifecycle Hooks.
-
-Keep in mind that vuex helps us maintain and test our application better, but we also have to be aware that vuex involves new levels of abstraction that will make us need to work with new concepts that will make the learning curve less accessible for developed juniors to our projects. So be careful.
- 
 
 ### Languages and Tools:
 
