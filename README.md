@@ -10,6 +10,6 @@
 <ul align="center">
   <ol> 🌱 I’m currently learning everything 🤣 </ol>
   <ol> 👯 I’m looking to collaborate with other content creators </ol>
-  <ol> 🥅 2024 - ???? Goals: Contribute more to Open Source projects </ol>
+  <ol> 🥅 2025 - ???? Goals: Contribute more to Open Source projects </ol>
   <ol> ⚡ Fun fact: Rest 😴💤 </ol>                                                           
 </ul>                                                           
